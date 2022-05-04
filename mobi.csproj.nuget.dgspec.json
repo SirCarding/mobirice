@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JNRHEY\\source\\repos\\mobi\\mobi\\mobi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JNRHEY\\source\\repos\\mobi\\mobi\\mobi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JNRHEY\\source\\repos\\mobi\\mobi\\mobi.csproj",
+        "projectName": "mobi",
+        "projectPath": "C:\\Users\\JNRHEY\\source\\repos\\mobi\\mobi\\mobi.csproj",
+        "packagesPath": "C:\\Users\\JNRHEY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JNRHEY\\source\\repos\\mobi\\mobi\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\JNRHEY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.AndroidX.Arch.Core.Runtime": {
+              "target": "Package",
+              "version": "[2.1.0.13, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Firebase.Auth": {
+              "target": "Package",
+              "version": "[121.0.1.4, )"
+            },
+            "Xamarin.Firebase.Database": {
+              "target": "Package",
+              "version": "[118.0.1, )"
+            },
+            "Xamarin.Google.Android.Material": {
+              "target": "Package",
+              "version": "[1.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

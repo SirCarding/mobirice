@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732143477104",
+    "firebase_url": "https://riceapp-7cc68-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "riceapp-7cc68",
+    "storage_bucket": "riceapp-7cc68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732143477104:android:d770658f6c5b632e0d2fb5",
+        "android_client_info": {
+          "package_name": "com.companyname.ricestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732143477104-q2nb73s4liga7v2d02be17708jkl5jap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.ricestore",
+            "certificate_hash": "a90a9e5ceedcb05e6754d57468ff77422b951519"
+          }
+        },
+        {
+          "client_id": "732143477104-3hhp3eqii246j2jt9de94trirrf61pvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCfdI8BRptlBIxC79f6pGj4VpAeVbWcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732143477104-3hhp3eqii246j2jt9de94trirrf61pvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
